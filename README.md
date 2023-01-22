@@ -1,5 +1,5 @@
 # CSCI-395.48 - Practical Web Development <br/> Spring 2023, Hunter College
-### Monday, 5:30pm - 8:00pm <br/> Rm TH502
+### Monday, 5:30pm - 8:00pm <br/> Rm TH405
 
 ---
 
