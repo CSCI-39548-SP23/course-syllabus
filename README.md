@@ -201,9 +201,9 @@ Content/order subject to change*
 
 Aside from your final presentation, 10% of your grade will be from a personal/individual presentation work. The web dev field is one that's always evolving, with new technologies/frameworks being adopted every day.
 
-As part of your presentation, you can give a short 5-10 min talk/report on what are some of the interesting changes that are happening in our field. This can be anything from a new framework that you picked up, a new JS library, or new technologies being developed that impacts the internet/web dev field.
+As part of your presentation, you can give a short ~5 min talk/report on what are some of the interesting changes that are happening in our field. This can be anything from a new framework that you picked up, a new JS library, or new technologies being developed that impacts the internet/web dev field.
 
-We will devote the start of the class session (limited to 2 presentations per class) to presentation, sign up sheet link will be posted on BlackBoard, and are on a first come first serve basis!
+We will devote the start of the class session (limited to 2-4 presentations per class) to presentation, sign up sheet link will be posted on BlackBoard, and are on a first come first serve basis!
 
 ---
 
