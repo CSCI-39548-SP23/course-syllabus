@@ -25,10 +25,25 @@ Recommended prerequisites:
 
 ## Grading
 
-40% - Assignments (4 x 10%) <br/>
+40% - Assignments (4 x 10%) (Late submission penalties applied at 10% per week) <br/>
 10% - Lab Report <br/>
 10% - Participation/Presentation <br/>
-40% - Final Project (30%) + Presentation (10%)
+40% - Final Project (30%) + Presentation (10%) <br/>
+
+Just to be completely transparent about grades, you can calculate your final grade with the formula below:
+
+```text
+FinalGrade =
+.10 * (assignment 1 grade) +
+.10 * (assignment 2 grade) +
+.10 * (assignment 3 grade) +
+.10 * (assignment 4 grade) +
+.10 * (lab report grade) +
+.10 * (participation/presentation) +
+.40 * (final project grade)
+```
+
+The formula should be pretty straightforward to understand. Your final letter grade is based on CUNY grading ranges as outlined [here](https://hunter.cuny.edu/students/registration/records-and-transcripts/grading-structure/). 
 
 ---
 
