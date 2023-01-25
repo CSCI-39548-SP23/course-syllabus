@@ -17,7 +17,8 @@ After the completion of this course, students are expected to have at least a ba
 
 Recommended prerequisites:
 - Comfortable working on the command line
-- Comfortable writing/testing/debugging code.
+- Comfortable writing/testing/debugging code
+- Experience with functional programming
 - IDE/Code Editor (VSCode, WebStorm, Sublime)
 - Familiarity with Git/GitHub/GitHub Classroom
 
