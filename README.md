@@ -206,6 +206,12 @@ As part of your presentation, you can give a short ~5 min talk/report on what ar
 
 We will devote the start of the class session (limited to 3 presentations max per class) to presentation, sign up sheet link will be posted on BlackBoard, and are on a first come first serve basis!
 
+Just to give an outline on what's expected in your presentation, consider the points below:
+
+- What is your presentation on? Is it a new framework/library that you found? Bugs that you encountered? Latest news in the web dev world?
+- Why is this topic important to our field, and how does it impact our work?
+- How does it address/cause certain issues that we find on the web?
+
 ---
 
 ## Hunter Policies
